@@ -1,11 +1,6 @@
 @import url('https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css');
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;600&display=swap');
 
-
-.hidden {
-  display: none;
-}
-
 .swiper {
     position: relative;
     width: 460px;
